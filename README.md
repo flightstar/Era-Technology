@@ -1,6 +1,8 @@
 # Era Technology
 Not fail, everything only challenges. Tập trung vào những điều tốt, tinh hoa, hoàn hảo, đàng hoàng với nền tảng cơ bản là ý chí và nghị lực sắt thép, thần kinh bạch kim thì tự nhiên phần người sẽ hoàn toàn trong sáng, đủ đầy và có đủ sức mạnh thực hiện hoài bão. 
 
+# List of some technology sectors the following 
+
 ## Construct, analytics and synthesis in the industry sectors
 + [Primary sector of industry](https://en.wikipedia.org/wiki/Primary_sector_of_the_economy#List_of_countries_by_agricultural_output) (the raw materials industry)
 + [Secondary sector of industry](https://en.wikipedia.org/wiki/Secondary_sector_of_industry) (manufacturing and construction)
@@ -16,6 +18,21 @@ Not fail, everything only challenges. Tập trung vào những điều tốt, ti
   + [Pharmaceutical industry](https://en.wikipedia.org/wiki/Pharmaceutical_industry)
 + [Computer industry](https://en.wikipedia.org/wiki/Computer_industry)
   + [Software industry](https://en.wikipedia.org/wiki/Software_industry)
+  + [Access](https://en.wikipedia.org/wiki/Access)
+  + [Adaptability](https://en.wikipedia.org/wiki/Adaptability)
+  + [Agency](https://en.wikipedia.org/wiki/Agency)
+  + [Administration](https://en.wikipedia.org/wiki/Administration)
+  + [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+  + Air
+  + [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
+  + [Robotics](https://en.wikipedia.org/wiki/Robotics)
+  + [Analytics](https://en.wikipedia.org/wiki/Analytic)
+  + [Automation](https://en.wikipedia.org/wiki/Automation)
+  + [Autonomy](https://en.wikipedia.org/wiki/Autonomy)
+  + [Bio-complexity](https://en.wikipedia.org/wiki/Biocomplexity)
+  + [BioSystems](https://en.wikipedia.org/wiki/BioSystems)
+  + [Battle Management, Command and Control (BMC2)](https://www.globalsecurity.org/space/systems/bmc2.htm)
+  + [Battle Management, Command and Communication (BMC3)](https://www.globalsecurity.org/space/systems/bmc2.htm)
 + [Construction industry](https://en.wikipedia.org/wiki/Construction_industry)
 + [Defense industry](https://en.wikipedia.org/wiki/Defense_industry)
   + [Arms industry](https://en.wikipedia.org/wiki/Arms_industry)
