@@ -48,6 +48,8 @@ Not fail, everything only challenges. Tập trung vào những điều tốt, ti
   + [Fruit production](https://en.wikipedia.org/wiki/Fruit_production)
 + [Health care industry](https://en.wikipedia.org/wiki/Health_care_industry)
 + [Hospitality industry](https://en.wikipedia.org/wiki/Hospitality_industry)
++ [Hydroelectric power](https://en.wikipedia.org/wiki/Hydroelectricity)
+  + Turbine system programming
 + [Information industry](https://en.wikipedia.org/wiki/Information_industry)
 + [Manufacturing](https://en.wikipedia.org/wiki/Manufacturing)
   + [Automotive industry](https://en.wikipedia.org/wiki/Automotive_industry)
