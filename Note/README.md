@@ -1,5 +1,6 @@
-## CTO-2018
-CTO 2018: https://trello.com/b/kAFCpzpw/cto-2018
+## Note
+
+https://trello.com/b/kAFCpzpw/cto-2018
 
 Information Technology Dictionary:
 + https://www.webopedia.com/Top_Category.asp
@@ -12,7 +13,7 @@ Information Technology Dictionary:
 + https://www.computer-dictionary-online.org/
 + https://burmastarrecords.files.wordpress.com/2009/12/microsoft_computer_dictionary__fifth_edition1.pdf
 
-## CTO 2019:
+## 2019:
 Building the systems and infrastructure for technology deployment suitable for business work
 
 Engineering Part:
